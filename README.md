@@ -14,7 +14,8 @@ El jugador ha de colocar las piezas que le van apareciendo por la parte superior
 
 # Movimiento: 
 - Escape: salir del juego.
- # Teclas de direccion:
+
+## Teclas de direccion:
 - Abajo: desplazar hacia abajo:
 - Izquierda: desplazamiento hacia la izquierda.
 - Derecha: desplazamiento hacia la derecha.
