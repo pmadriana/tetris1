@@ -1,2 +1,3 @@
 # TETRIS
-#KSMVLSF
+# Para hacer el juego usamos:
+## gfhkfg
