@@ -14,8 +14,7 @@ El jugador ha de colocar las piezas que le van apareciendo por la parte superior
 
 # Movimiento: 
 - Escape: salir del juego.
-
-## Teclas de direccion:
+### Teclas de direccion:
 - Abajo: desplazar hacia abajo:
 - Izquierda: desplazamiento hacia la izquierda.
 - Derecha: desplazamiento hacia la derecha.
@@ -23,7 +22,7 @@ El jugador ha de colocar las piezas que le van apareciendo por la parte superior
 
 # Problemas en la implementacion:
 - La primera version del juego era sin punteros y cuando los implementamos hubo algunos problemas especialmente con las piezas.
-- Tratamos de implementar herencia y polimorfismo pero carecia de sentido ya que solo heredaba coordenadas y tomamos la decisón de no implementarlos.
+- Tratamos de implementar herencia y polimorfismo pero carecia de sentido ya que solo heredaba coordenadas y tomamos la decisión de no implementarlos.
  
 
 
