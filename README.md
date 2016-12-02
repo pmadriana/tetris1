@@ -19,7 +19,8 @@ El jugador ha de colocar las piezas que le van apareciendo por la parte superior
 - Izquierda: desplazamiento hacia la izquierda.
 - Derecha: desplazamiento hacia la derecha.
 - Arriba: Rotar la pieza.
-## Problemas en la implementacion:
+
+# Problemas en la implementacion:
 - La primera version del juego era sin punteros y cuando los implementamos hubo algunos problemas especialmente con las piezas.
 - Tratamos de implementar herencia y polimorfismo pero carecia de sentido ya que solo heredaba coordenadas y tomamos la decisón de no implementarlos.
  
