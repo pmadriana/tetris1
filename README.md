@@ -20,6 +20,9 @@ Teclas de direccion:
 - Arriba: Rotar la pieza.
 - Escape: salir del juego.
 
+# Para ejecutar:
+-Ir al boton build and run.
+
 # Problemas en la implementacion:
 - La primera version del juego era sin punteros y cuando los implementamos hubo algunos problemas especialmente con las piezas.
 - Tratamos de implementar herencia y polimorfismo pero carecia de sentido ya que solo heredaba coordenadas y tomamos la decisión de no implementarlos.
